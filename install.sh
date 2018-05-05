@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Install Memcached
-sudo apt-get install python-memcached
-sudo apt-get install python3-memcached
+sudo apt-get install python-memcache
+sudo apt-get install python3-memcache
 sudo apt-get install memcached
 
 # Install pylibftdi
